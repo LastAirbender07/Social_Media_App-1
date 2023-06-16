@@ -1,0 +1,28 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "My First Post",
+      "body": "This is my first post. \nI like it.",
+      "datetime": "June 14, 2023 04:26:36 PM"
+    },
+    {
+      "id": 2,
+      "title": "My second Post",
+      "body": "When trollers gets trolled",
+      "datetime": "June 15, 2023 02:46:34 PM"
+    },
+    {
+      "id": 4,
+      "title": "Warm Summer",
+      "body": "Summer is so Hot",
+      "datetime": "June 14, 2023 03:31:59 PM"
+    },
+    {
+      "id": 5,
+      "title": "React Js",
+      "body": "This created using React Js",
+      "datetime": "June 14, 2023 04:28:16 PM"
+    }
+  ]
+}
