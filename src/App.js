@@ -7,7 +7,7 @@ import PostPage from './PostPage';
 import Edit from './Edit';
 import Missing from './Missing';
 import Footer from './Footer';
-import { Routes, Route, useNavigate } from 'react-router-dom';
+import { Routes, Route } from 'react-router-dom';
 import { DataProvider } from './context/DataContext';
 
 function App() {
